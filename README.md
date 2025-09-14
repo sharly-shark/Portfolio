@@ -6,4 +6,4 @@
 
 | №  | Наименование проекта | Описание | Стек |
 |----|-----------------------|----------|------|
-| 1  | [Анализ бронирований и пользовательского поведения в сервисе Яндекс.Афиша ](https://github.com/sharly-shark/Practicum-projects/tree/main/shop_analysis) | Изучение пользовательских предпочтений, динамики популярности событий и различий в поведении мобильных и десктопных пользователей | SQL, DataLens, Python (pandas, matplotlib, seaborn, numpy, scipy), Jupyter Notebook |
+| 1  | [Анализ бронирований и пользовательского поведения в сервисе Яндекс.Афиша ](https://github.com/sharly-shark/Portfolio/tree/main/Ticket_booking_service) | Изучение пользовательских предпочтений, динамики популярности событий и различий в поведении мобильных и десктопных пользователей | SQL, DataLens, Python (pandas, matplotlib, seaborn, numpy, scipy), Jupyter Notebook |
