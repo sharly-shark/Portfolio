@@ -1,7 +1,7 @@
 # Проверка гипотезы о различии времени активности пользователей из Москвы и Санкт-Петербурга  
 
- [ipynb](https://github.com/sharly-shark/Portfolio/tree/main/Moscow_vs_Spb_activity/TMoscow_vs_Spb_activity_analysis.ipynb)
- [HTML](https://github.com/sharly-shark/Portfolio/tree/main/Moscow_vs_Spb_activity/TMoscow_vs_Spb_activity_analysis.html)
+ [ipynb](https://github.com/sharly-shark/Portfolio/tree/main/Moscow_vs_Spb_activity/Moscow_vs_Spb_activity_analysis.ipynb)
+ [HTML](https://github.com/sharly-shark/Portfolio/tree/main/Moscow_vs_Spb_activity/Moscow_vs_Spb_activity_analysis.html)
 
 ## 📌 Описание проекта  
 Проект посвящён анализу активности пользователей мобильного приложения для чтения и прослушивания книг. Основное внимание уделено проверке гипотезы о том, что пользователи из Санкт-Петербурга проводят больше времени в приложении, чем пользователи из Москвы.  
