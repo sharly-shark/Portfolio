@@ -1,6 +1,6 @@
 # 🚀 Исследование стартапов  
 
-[.ipynb](https://github.com/sharly-shark/Portfolio/blob/main/Startup_insights/Startup_insights_analysis.ipynb)  
+[.ipynb](https://github.com/sharly-shark/Portfolio/blob/main/Startup_insights/Startup_insights_analysis.ipynb)
 [HTML](https://github.com/sharly-shark/Portfolio/blob/main/Startup_insights/Startup_insights_analysis.html)  
 
 ## 📌 Описание проекта  
